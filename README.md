@@ -2,6 +2,8 @@
 
 [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/gitdagray/js_acme_blogs)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/669a05ee-0259-47df-9934-6c1a8d24efb2/deploy-status)](https://app.netlify.com/sites/clever-parfait-c2b728/deploys)
+
 **Start by clicking the Remix on Glitch button above.**
 
 _Once you are working with your own copy of the project on Glitch..._
